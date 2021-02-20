@@ -1,6 +1,6 @@
 CREATE DATABASE db_hopark;
 
-USE db_hopark
+USE db_hopark;
 
 CREATE TABLE users(
     id INT(11) NOT NULL,
